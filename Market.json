@@ -16412,16 +16412,6 @@
                 "quantity": 1
             },
             {
-                "lastUpdatedAt": 1570647600000,
-                "objectId": "Dwight_outfit_020",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1570647600000,
-                "objectId": "Dwight_outfit_021",
-                "quantity": 1
-            },
-            {
                 "lastUpdatedAt": 1551301200000,
                 "objectId": "Dwight_outfit_008_01",
                 "quantity": 1
@@ -27729,6 +27719,66 @@
             {
                 "lastUpdatedAt": 1662193238774,
                 "objectId": "MT_Torso04_LunarNewYear",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "DF_Head022",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "DF_Torso022",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "DF_Legs022",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "MS_Head018",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "MS_Torso018",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "MS_Legs018",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "SwedenKiller_Mask013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "SwedenKiller_Body013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "SwedenKiller_W013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "K29_Head007",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "K29_Body007",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1665509160,
+                "objectId": "K29_W007",
                 "quantity": 1
             }
         ]
